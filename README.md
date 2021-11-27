@@ -15,20 +15,17 @@
 <a href="https://github.com/tugbaevci/github-readme-stats"><img alt="Tugba's stats" src="https://github-readme-stats.vercel.app/api?username=tugbaevci&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a>
 <a href="https://github.com/tugbaevci/github-readme-stats"><img alt="Tugba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaevci&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a>
 
-</br>
-
 ### :handshake: Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/tugbaaevci-%230077B5.svg?]style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuğba-evci-075a1b15b/)
 [![Medium](https://img.shields.io/badge/@tugaaevci-12100E?]style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tugbaaevci)
 [![Kaggle](https://img.shields.io/badge/tugbaevci-%231DA1F2.svg?]style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tugbaevci)
 [![YouTube](https://img.shields.io/badge/tugbaevci-%23FF0000.svg?]style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCcxoO-x1rV1hr-yv8CK8duw)
-</br>
+
 ### ❤️ Views and Followers
 
 <a href="https://github.com/tugbaevci/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=tugbaevci">
 <a href="https://github.com/tugbaevci?tab=followers"><img src="https://img.shields.io/github/followers/tugbaevci?label=Followers&style=social" alt="Github Badge"></a>
-</br>
 
 ### Languages and Tools
 <br/>
