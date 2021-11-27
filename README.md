@@ -1,6 +1,6 @@
 ### **Hi there, I'm Tugba**   <img src="https://media.giphy.com/media/03J46HqtImZgQ0GkvF/source.gif"  width="20" height="20"> </br> 
 
-## Mechatronics Engineer | Artificial Intelligence Specialist  <img src="https://media.giphy.com/media/H3kC4ZqqH1XJoK1sCZ/source.gif" width="30" height="30"> 
+## Mechatronics Engineer | Artificial Intelligence Specialist  <img src="https://media.giphy.com/media/H3kC4ZqqH1XJoK1sCZ/source.gif" width="20" height="20"> 
 *Master of Sciene, Artificial Intelligence at <a href="https://mu.edu.tr/tr"> University of Muğla Sıtkı Koçman</a> <img src="https://media.giphy.com/media/Q8rO8ZtxxEu7gXeldr/source.gif" width="15" height="15">*
 <br />
 
