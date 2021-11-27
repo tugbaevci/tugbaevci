@@ -1,5 +1,4 @@
 ### **Hi there, I'm Tugba**   <img src="https://media.giphy.com/media/03J46HqtImZgQ0GkvF/source.gif"  width="20" height="20"> 
-
 ## Mechatronics Engineer | Artificial Intelligence Specialist  <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/source.gif" width="30" height="30"> 
 *Master of Sciene, Artificial Intelligence at <a href="https://mu.edu.tr/tr"> University of Muğla Sıtkı Koçman</a> <img src="https://media.giphy.com/media/Q8rO8ZtxxEu7gXeldr/source.gif" width="15" height="15">*
 <br />
