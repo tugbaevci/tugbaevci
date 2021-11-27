@@ -28,7 +28,6 @@
 <a href="https://github.com/tugbaevci?tab=followers"><img src="https://img.shields.io/github/followers/tugbaevci?label=Followers&style=social" alt="Github Badge"></a>
 
 ### Languages and Tools
-<br/>
 <p align="left">
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
