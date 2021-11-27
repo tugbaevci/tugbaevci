@@ -1,6 +1,6 @@
-### **Hi there, I'm Tugba**   <img src="https://media.giphy.com/media/03J46HqtImZgQ0GkvF/source.gif"  width="20" height="20"> </br> 
+### **Hi there, I'm Tugba**   <img src="https://media.giphy.com/media/03J46HqtImZgQ0GkvF/source.gif"  width="20" height="20"> 
 
-## Mechatronics Engineer | Artificial Intelligence Specialist  <img src="https://media.giphy.com/media/H3kC4ZqqH1XJoK1sCZ/source.gif" width="20" height="20"> 
+## Mechatronics Engineer | Artificial Intelligence Specialist  <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/source.gif" width="30" height="30"> 
 *Master of Sciene, Artificial Intelligence at <a href="https://mu.edu.tr/tr"> University of Muğla Sıtkı Koçman</a> <img src="https://media.giphy.com/media/Q8rO8ZtxxEu7gXeldr/source.gif" width="15" height="15">*
 <br />
 
@@ -9,11 +9,9 @@
 * 📝  I will soon share the articles of my work on **<a href="https://medium.com/@tugbaaevci">Medium </a>**
 * 💭 Ask me about **Computer Vision, Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
 * 📫 How to reach me: tugbaaevci@gmail.com
-<br />
-
 
 ### :bar_chart: My Github Stats
-</br>
+
 <a href="https://github.com/tugbaevci/github-readme-stats"><img alt="Tugba's stats" src="https://github-readme-stats.vercel.app/api?username=tugbaevci&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a>
 <a href="https://github.com/tugbaevci/github-readme-stats"><img alt="Tugba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaevci&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a>
 
