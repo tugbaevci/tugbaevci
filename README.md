@@ -34,7 +34,6 @@
 <a href="https://keras.io"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="48" height="48"></a>
 <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" witdh="48" height="48"></a>
 <a href="https://pydata.org/project/numpy/"> <img src="https://pydata.org/wp-content/uploads/2016/07/numpy-logo-300.png" alt="numpy" witdt="48" height="48"></a>
-<a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"><img src="https://www.pifors.com/pifors.com/wp-content/uploads/2021/01/www.pifors.com-ekransizmonitorsuz-ve-klavyesiz-raspberry-pi-bir-wifi-agina-ve-internete-nasil-baglanir.png" alt="raspberry" width="48" height="48"></a>
 <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 <a><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
 <a target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"/></a>
